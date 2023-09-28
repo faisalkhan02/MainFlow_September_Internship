@@ -5,19 +5,25 @@ Welcome to the MainFlow September Internship project repository! In this project
 ## Project Overview:
 
 📊 Exploring Insights: Dive into the world of data analysis as we explore meaningful insights and uncover hidden patterns within YouTube channel data.
-Key Responsibilities:
+
+### Key Responsibilities:
 
 During this project, I undertook the following responsibilities:
 
 📈 Summary Statistics: Generated detailed summary statistics to provide a quick overview of the dataset.
+
 📉 Data Visualizations: Created a variety of visualizations, including histograms, scatter plots, and box plots, to visually explore data distributions and trends.
+
 🧐 Correlation Analysis: Identified correlations and relationships between variables, shedding light on key factors influencing YouTube channel performance.
+
 🤔 Hypothesis Development: Formulated hypotheses that serve as a foundation for further in-depth analysis, potentially leading to actionable recommendations.
 
 ## Project Highlights:
 
 📊 Comprehensive EDA: The project showcases the power of EDA in extracting valuable insights from real-world data.
+
 📈 Interactive Visualizations: Explore our visually engaging charts and graphs to gain a deeper understanding of the data.
+
 🤝 Collaborative Learning: This project is a result of collaborative efforts and learning experiences during the MainFlow September Internship.
 
 ## Getting Started:
