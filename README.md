@@ -6,7 +6,7 @@ Welcome to the MainFlow September Internship project repository! In this project
 
 📊 Exploring Insights: Dive into the world of data analysis as we explore meaningful insights and uncover hidden patterns within YouTube channel data.
 
-#### Key Responsibilities:
+### Key Responsibilities:
 
 During this project, I undertook the following responsibilities:
 
@@ -26,11 +26,11 @@ During this project, I undertook the following responsibilities:
 
 🤝 Collaborative Learning: This project is a result of collaborative efforts and learning experiences during the MainFlow September Internship.
 
-#### Getting Started:
+### Getting Started:
 
 To dive into the EDA findings and explore the data-driven story, simply navigate through our project's files and notebooks.
 
-#### Contributions:
+### Contributions:
 
 We welcome contributions, feedback, and insights from the GitHub community. Feel free to submit bug reports, feature requests, or enhancements to help us improve this project further.
 
